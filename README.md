@@ -15,3 +15,5 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Tema 3
 * [Clase 5 (02/10)](clases/clase05/clase05.md): Repaso de problemas del Tema 2. Condiciones lógicas. Ejercicios. 
+* [Clase 6 (04/10)](clases/clase06/clase06.md): Sentencias de selección.
+* [Clase 7 (09/10)](clases/clase07/clase07.md): Repaso de las sentencias de selección especialmente prestando atención a la sentencia de selección múltiple. También se empezó con la sentencia de repetición `while` y `for`.
