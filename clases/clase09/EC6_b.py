@@ -5,20 +5,23 @@ for a in range(altura*2-1):
     print("*", end="")
 print()
 
-# Central
-espacios1: int = 1
-espacios2: int = 2*altura - 5
-for l in range(altura-2):
-    for e in range(espacios1):
-        print(".", end="")
-    print("*", end="")
-    for e in range(espacios2):
-        print(".", end="")
-    print("*", end="")
-    print()
-    espacios1 += 1
+# Calculo los espacios intermedios de la segunda línea
+espacios2: int = 2*altura-5
+#Recorro desde la segunda hasta la penúltima línea
+for i in range(1,altura-1):
+    # Imprimo los espacios iniciales en función de mi altura actual
+    for s in range(i):
+        print('.',end='')
+    # Imprimo el primer asterisco
+    print('*',end='')
+    # Imprimo los espacios intermedios y el segundo asterisco después
+    for s in range(espacios2):
+        print('.',end='')
+    print('*')
+    # Reduzco los espacios intermedios para la siguiente iteración
     espacios2 -= 2
-# Última línea
-for e in range(altura -1):
-    print(".", end="")
-print("*")
+
+# Imprimo la última línea
+for i in range(altura-1):
+    print('.',end='')
+print('*')
