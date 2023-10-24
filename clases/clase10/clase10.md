@@ -6,26 +6,32 @@ A continuación comenzamos con el Tema 4, donde se introdujo la necesidad de div
 
 # Figura: cuadrado
 Dibujar un cuadrado hueco de doble pared como el siguiente, pidiendo antes el lado:
-```Lado: 6```
-```******```
-```******```
-```**  **```
-```**  **```
-```******```
-```******```
+
+```
+Lado: 6
+******
+******
+**  **
+**  **
+******
+******
+```
 
 [[Ver código](t3e43.figuracuadrado.py)]
 
 # Figura: rombo
 Dibujar un rombo como el siguiente, pidiendo antes la semialtura:
-```Semialtura: 4```
-```   *```
-```  ***```
-``` *****```
-```*******```
-``` *****```
-```  ***```
-```   *```
+
+```
+Semialtura: 4
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+```
 
 [[Ver código](t3e44.figurrombo.py)]
 
