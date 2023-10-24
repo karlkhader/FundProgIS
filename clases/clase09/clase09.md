@@ -1,4 +1,4 @@
-# Clase 9: 11 de octubre de 2022
+# Clase 9: 16 de octubre de 2023
 
 En esta clase resolvimos dudas de las relaciones de ejercicios e hicimos algunos ejercicios de parciales de otros años. Os dejo un listado de ejercicios.
 
