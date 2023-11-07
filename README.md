@@ -23,3 +23,6 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ### Tema 4
 * [Clase 10 (23/10)](clases/clase10/clase10.md): Repaso de figuras. Introducción a los subprogramas. Creación de funciones. Ejercicios.
 * [Clase 11 (30/10)](clases/clase11/clase11.md): Procedimientos. Funciones que devuelven varios valores. Ámbitos. Ejercicios.
+
+### Tema 5
+* [Clase 12 (06/11)](clases/clase12/clase12.md): Resolución de dudas del tema de funciones. Conceptos de lista y acceso (rango).
