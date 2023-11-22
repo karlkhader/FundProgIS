@@ -27,3 +27,6 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ### Tema 5
 * [Clase 12 (06/11)](clases/clase12/clase12.md): Resolución de dudas del tema de funciones. Conceptos de lista y acceso (rango).
 * [Clase 13 (13/11)](clases/clase13/clase13.md): Ejercicios con listas (incluyendo algunos más complejos).
+
+### Tema 6
+* [Clase 14 (20/11)](clases/clase14/clase14.md): El tipo string, operaciones sobre string y dividir en trozos.
