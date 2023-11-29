@@ -30,3 +30,4 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 
 ### Tema 6
 * [Clase 14 (20/11)](clases/clase14/clase14.md): El tipo string, operaciones sobre string y dividir en trozos.
+* [Clase 15 (27/11)](clases/clase15/clase15.md): f-string. Ejercicios sobre textos.
