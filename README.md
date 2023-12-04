@@ -31,3 +31,7 @@ En este repositorio se irán subiendo los códigos desarrollados durante la doce
 ### Tema 6
 * [Clase 14 (20/11)](clases/clase14/clase14.md): El tipo string, operaciones sobre string y dividir en trozos.
 * [Clase 15 (27/11)](clases/clase15/clase15.md): f-string. Ejercicios sobre textos.
+
+### Tema 7
+* [Clase 16 (29/11)](clases/clase16/clase16.md): Concepto y uso de diccionarios.
+* [Clase 17 (04/12)](clases/clase17/clase17.md): Ejercicios de creación de diccionarios. Listas de Diccionario. Ejercicio de Spotify.
