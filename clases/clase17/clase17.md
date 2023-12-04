@@ -3,7 +3,7 @@
 En esta clase hemos revisado el concepto y uso de diccionario y hemos practicado sobretodo el tema de lista de diccionarios.
 
 ## Ejercicio 1: Frecuencias
-*Hacer una función `def freqs(s)` de recibiendo un texto s, nos devuelva un diccionario indicando cada letra que aparece en el texto cuántas veces aparece. Por ejemplo: `freqs("las gafas")` daría `{'l': 1, 'a': 3, 's': 2, ' ': 1, 'g': 1, 'f': 1}`.
+* Hacer una función `def freqs(s)` de recibiendo un texto s, nos devuelva un diccionario indicando cada letra que aparece en el texto cuántas veces aparece. Por ejemplo: `freqs("las gafas")` daría `{'l': 1, 'a': 3, 's': 2, ' ': 1, 'g': 1, 'f': 1}`.
 
 [[Ver código](t7e04.frecuencias.py)]
 
@@ -39,7 +39,7 @@ pagos = [
 * Si el ordenador se pasa de 21, gana el jugador.
 * Si el ordenador supera al jugador sin pasarse de 21, gana el ordenador.
 
-[[Ver solución](t7e06.blackjack.py)]
+
 
 
 ## Ejercicio 4: Spotify
@@ -69,7 +69,7 @@ f.close()
 ```
 
 *Ese código carga en la variable `SONGS` todas las canciones (es una lista de canciones (diccionarios con la información indicada previamente)). Ahora en este fichero puede usar los datos y, por ejemplo: `print(SONGS[0]["artist_names"]`) escribirá `['Glass Animals']` (que es el cantante de la primera canción).
-Usando ese fichero, realice el código para contestar a las siguientes preguntas. Vaya copiando las respuestas en el SOCRATIVE de la clase para validar las respuestas. Si en el apartado hay varias preguntas copie las respuestas separadas con un espacio.*
+Usando ese fichero, realice el código para contestar a las siguientes preguntas.*
 
 1.	*¿Cuál es el título de la canción 79 del listado? (recuerde que las posiciones empiezan en 0)*
 2.	*¿Cuál es el mejor puesto que ocupó en el ranking la última canción?*
