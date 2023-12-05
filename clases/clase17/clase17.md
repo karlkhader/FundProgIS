@@ -39,7 +39,7 @@ pagos = [
 * Si el ordenador se pasa de 21, gana el jugador.
 * Si el ordenador supera al jugador sin pasarse de 21, gana el ordenador.
 
-
+[[Ver solución](t7e06.blackjack.py)]
 
 
 ## Ejercicio 4: Spotify
