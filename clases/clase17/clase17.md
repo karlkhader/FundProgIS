@@ -92,4 +92,7 @@ Usando ese fichero, realice el código para contestar a las siguientes preguntas
 13.	*¿Qué cantante tiene más canciones? ¿Cuántas tiene?* 
 
 
+[[Ver canciones](songs.txt)]
+
+[[Ver solución](info_spotify_completo.py)]
 
